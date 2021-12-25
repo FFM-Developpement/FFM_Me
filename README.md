@@ -21,3 +21,6 @@ L'ensemble des paramètres de la commande sont modifiables dans ```Langues = {}`
 
 ## Utilisation
 * Dans votre chat, tapez ```/me``` suivi de l'action souhaitée.
+
+## Notes
+* Rejoignez note communauté [Discord](https://discord.gg/76ZE5SkuAd)
