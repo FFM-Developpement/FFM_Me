@@ -23,5 +23,5 @@ L'ensemble des paramètres de la commande sont modifiables dans ```Langues = {}`
 * Dans votre chat, tapez ```/me``` suivi de l'action souhaitée.
 
 ## Notes
-* Rejoignez note communauté [Discord](https://discord.gg/76ZE5SkuAd);
+* Rejoignez notre communauté [Discord](https://discord.gg/76ZE5SkuAd);
 * Consultez nos autres ressources [GitHub](https://github.com/FFM-Developpement).
