@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Kreams#0885'
-description 'FFM-Me'
+description 'FFM_Me'
 version '1.0'
 
 
