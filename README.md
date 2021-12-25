@@ -14,10 +14,10 @@ FFM_Me est un script codé en LUA permettant l'utilisation de la commande /me su
 | Couleur du texte | ```config.lua``` : ligne 3 | ```couleur = { r = 230, g = 230, b = 230, a = 255 }``` |
 | Police du texte | ```config.lua``` : ligne 4 | ```font = 2``` ([Polices Disponibles](https://imgur.com/a/oV3ciWs)) |
 | Durée | ```config.lua``` : ligne 5 | ```duree = 5000``` |
-| Taille | ```config.lua``` : line 6 | ```taille = 0.5``` |
-| Distance | ```config.lua``` : line 7 | ```distance = 250``` |
+| Taille | ```config.lua``` : ligne 6 | ```taille = 0.5``` |
+| Distance | ```config.lua``` : ligne 7 | ```distance = 250``` |
 
-L'ensemble des paramètres de la commande sont modifiables dans ```Lanuges = {}```
+L'ensemble des paramètres de la commande sont modifiables dans ```Langues = {}```
 
 ## Utilisation
 * Dans votre chat, tapez ```/me``` suivi de l'action souhaitée ;
